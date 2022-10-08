@@ -15,4 +15,4 @@ Sobre Mim:<br>🔭 No momento estou estudando ADS na Unidade Uninove e no Instit
 ---
 [![](https://visitcount.itsvg.in/api?id=Dev-Amanda&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/Dev-Amanda/Dev-Amanda/blob/main/.github/workflows/blank.yml)
+
