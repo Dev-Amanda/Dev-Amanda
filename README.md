@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Sobre Mim:<br>🔭 No momento estou estudando ADS na Unidade Uninove e no Instituto Proa<br>🤝 Programação em Java<br>🌱 Atualmente estou aprendendo React<br>💬 linkedin.com/in/amanda-vitoria-a14a82198<br>⚡ "Nunca estou realmente satisfeita quanto a entender alguma coisa; porque, até onde entendo, a minha compreensão só pode ser uma fração infinitesimal de tudo o que eu quero compreender." - Ada Lovelace<br>
+Sobre Mim:<br>🔭 No momento estou estudando ADS na Unidade Uninove e no Instituto Proa<br>🤝 Programação em Java<br>🌱 Atualmente estou aprendendo Banco de Dados<br>💬 linkedin.com/in/amanda-vitoria-a14a82198<br>⚡ "Nunca estou realmente satisfeita quanto a entender alguma coisa; porque, até onde entendo, a minha compreensão só pode ser uma fração infinitesimal de tudo o que eu quero compreender." - Ada Lovelace<br>
 
 
 ## 🌐 Socials:
